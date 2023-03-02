@@ -51,7 +51,7 @@ Hub &amp; Spoke AD DC &amp; DNS Server
   
   - `Rajouter les APPLICATIONS RULES pour donner accès à internet aux deux VMs`
     
-    ![Schema](./asset/Capture%20d'%C3%A9cran_20230301_172939.png)
+    ![Schema](./asset/Screenshot_0.png)
 
 # 3. Manipulations dans la VM Domain Controler.
 
@@ -104,7 +104,7 @@ Hub &amp; Spoke AD DC &amp; DNS Server
 
 # 5. Ajout des deux pokémons.  
 
-   `Dans tools sélectionner Users & computers .`
+  - `Dans tools sélectionner Users & computers .`
     
     ![Schema](./asset/Screenshot_24.png)
         ![Schema](./asset/Screenshot_25.png)  
