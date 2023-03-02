@@ -20,7 +20,7 @@ Hub &amp; Spoke AD DC &amp; DNS Server
 * __les Rules__  
  __https://learn.microsoft.com/en-US/troubleshoot/windows-server/identity/config-firewall-for-ad-domains-and-trusts__  
   
-  - `S'inspirer des Rules de la doc officiel afin de faciler la connexion de la VM (Client) à la VM (DomainControler).`
+  - `S'inspirer des Rules de la doc officiel afin de faciliter la connexion de la VM (Client) à la VM (DomainControler).`
 
 2. Manipulations sur les VMs et le Firewall.  
 
