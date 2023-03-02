@@ -7,7 +7,7 @@ Hub &amp; Spoke AD DC &amp; DNS Server
 
 * __Réseau__  
   
-   - `Cocher Allow pour l'option Traffic Forwaded From Remote Virtual Network afin de connecter et autoriser des applications et services à s'authentifier à travers le domain controler.`  
+   - `Peering: dans les deux Vnets des Spokes Cocher Allow dans peering pour l'option Traffic Forwaded From Remote Virtual Network afin de connecter et autoriser les applications et services à s'authentifier à travers le domain controler.`  
   
    - `L'adresse Ip de la NIC du Domain Controler doit être en Static.`  
    
