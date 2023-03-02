@@ -36,7 +36,7 @@ Hub &amp; Spoke AD DC &amp; DNS Server
 
 * __DNS dans les Vnets__  
   
-  - `Dans les deux différents Spokes on définit le DNS sur custom dans DNS Servers et on y ajoute l'adresse ip NIC de la VM Domain Controler.`
+  - `Dans les deux différents Spokes on définit le DNS Servers sur custom dans DNS Servers et on y ajoute l'adresse ip NIC de la VM Domain Controler.`
     
     ![Schema](./asset/Screenshot_2.png)
 
