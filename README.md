@@ -3,7 +3,7 @@ Hub &amp; Spoke AD DC &amp; DNS Server
 
 ![Schema](./asset/Hub2.drawio.png)
 
-1. Prérequis :
+# 1. Prérequis :
 
 * __Réseau__  
   
@@ -22,7 +22,7 @@ Hub &amp; Spoke AD DC &amp; DNS Server
   
   - `S'inspirer des Rules de la doc officiel afin de faciliter la connexion de la VM (Client) à la VM (DomainControler).`
 
-2. Manipulations sur les VMs et le Firewall.  
+# 2. Manipulations sur les VMs et le Firewall.  
 
 * __Créer les VMs__   
   
@@ -51,7 +51,7 @@ Hub &amp; Spoke AD DC &amp; DNS Server
   
   - `Rajouter les APPLICATIONS RULES pour donner accès à internet aux deux VMs`
 
-3. Manipulations dans la VM Domain Controler.
+# 3. Manipulations dans la VM Domain Controler.
 
 
 * __Vérification__   
@@ -83,7 +83,7 @@ Hub &amp; Spoke AD DC &amp; DNS Server
     ![Schema](./asset/Screenshot_11.png)
         ![Schema](./asset/Screenshot_18.png)
 
-4. Manipulations dans la VM Client.  
+# 4. Manipulations dans la VM Client.  
 
 * __Vérifications__  
   
@@ -100,7 +100,7 @@ Hub &amp; Spoke AD DC &amp; DNS Server
                 ![Schema](./asset/Screenshot_23.png)
 
 
-5. Ajout des deux pokémons.  
+# 5. Ajout des deux pokémons.  
 
    `Dans tools sélectionner Users & computers .`
     
@@ -109,4 +109,4 @@ Hub &amp; Spoke AD DC &amp; DNS Server
 
      `Se connecter à la VM client avec les identifiants de l'un des Pokémons .`  
 
-6. The End
+# 6. The End
