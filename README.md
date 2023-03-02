@@ -50,6 +50,8 @@ Hub &amp; Spoke AD DC &amp; DNS Server
   - `Rajouter les rules DNAT pour la connexion aux VMs en RDP`
   
   - `Rajouter les APPLICATIONS RULES pour donner accès à internet aux deux VMs`
+    
+    ![Schema](./asset/Capture%20d'%C3%A9cran_20230301_172939.png)
 
 # 3. Manipulations dans la VM Domain Controler.
 
