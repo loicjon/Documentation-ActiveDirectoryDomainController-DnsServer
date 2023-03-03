@@ -111,4 +111,7 @@ Hub &amp; Spoke AD DC &amp; DNS Server
 
      `Se connecter à la VM client avec les identifiants de l'un des Pokémons .`  
 
-# <center>6. The End </center>
+# <center>6. Quelques liens utiles </center>
+
+  - __https://infosecwriteups.com/active-directory-overview-98692e1b0233__  
+  - __https://www.rebeladmin.com/2018/06/active-directory-authentication-works/__
